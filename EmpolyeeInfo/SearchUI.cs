@@ -30,9 +30,8 @@ namespace EmpolyeeInfo
             aCommand.Connection = aConnection;
             aConnection.Open();
             SqlDataReader aReader = aCommand.ExecuteReader();
-            while(aReader.Read())
-            {
-                if (aReader.HasRows)
+            aReader.Read();
+             if (aReader.HasRows)
                 {
                     Emaillabel.Text = aReader["email"].ToString();
                     ContactNolabel.Text = aReader["contactNo"].ToString();
@@ -40,11 +39,11 @@ namespace EmpolyeeInfo
                     Addresslabel.Text = aReader["address"].ToString();
 
                 }
-                else
+             else
                 {
                     MessageBox.Show("No Data");
                 }
-            }
+            
             aReader.Close();
             aConnection.Close();
         }
