@@ -1,0 +1,12 @@
+C:\Users\Istiaq\source\repos\EmpolyeeInfo\EmpolyeeInfo\bin\Debug\EmpolyeeInfo.exe.config
+C:\Users\Istiaq\source\repos\EmpolyeeInfo\EmpolyeeInfo\bin\Debug\EmpolyeeInfo.exe
+C:\Users\Istiaq\source\repos\EmpolyeeInfo\EmpolyeeInfo\bin\Debug\EmpolyeeInfo.pdb
+C:\Users\Istiaq\source\repos\EmpolyeeInfo\EmpolyeeInfo\obj\Debug\EmpolyeeInfo.csproj.AssemblyReference.cache
+C:\Users\Istiaq\source\repos\EmpolyeeInfo\EmpolyeeInfo\obj\Debug\EmpolyeeInfo.MenuUI.resources
+C:\Users\Istiaq\source\repos\EmpolyeeInfo\EmpolyeeInfo\obj\Debug\EmpolyeeInfo.Properties.Resources.resources
+C:\Users\Istiaq\source\repos\EmpolyeeInfo\EmpolyeeInfo\obj\Debug\EmpolyeeInfo.SaveUI.resources
+C:\Users\Istiaq\source\repos\EmpolyeeInfo\EmpolyeeInfo\obj\Debug\EmpolyeeInfo.SearchUI.resources
+C:\Users\Istiaq\source\repos\EmpolyeeInfo\EmpolyeeInfo\obj\Debug\EmpolyeeInfo.csproj.GenerateResource.cache
+C:\Users\Istiaq\source\repos\EmpolyeeInfo\EmpolyeeInfo\obj\Debug\EmpolyeeInfo.csproj.CoreCompileInputs.cache
+C:\Users\Istiaq\source\repos\EmpolyeeInfo\EmpolyeeInfo\obj\Debug\EmpolyeeInfo.exe
+C:\Users\Istiaq\source\repos\EmpolyeeInfo\EmpolyeeInfo\obj\Debug\EmpolyeeInfo.pdb
